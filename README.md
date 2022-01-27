@@ -1,11 +1,11 @@
 ## Hi there, I'm Loay Ashraf - _Junior iOS Software Engineer_ 👋
 
-## I'm currently into Apple things and Swift Programming Language!🤓
-
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail] 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
+
+## I'm currently into Apple things and Swift Programming Language!🤓
 
 ***I love sharing my knowledge and experience, contribute to open source projects.***
 
