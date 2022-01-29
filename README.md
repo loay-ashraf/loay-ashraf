@@ -1,5 +1,5 @@
 <h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px></h1>
-<h2 align="center"> I'm Loay Ashraf, A passionate iOS software engineer from Egypt</h2>
+<h2 align="center"> I'm Loay Ashraf, A passionate iOS Software Engineer from Egypt</h2>
 
 ### I'm currently into Apple developer eco system and mastering my skills in Swift Programming Language!🤓
 
