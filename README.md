@@ -3,7 +3,7 @@
 
 ### I'm currently into Apple developer eco system and mastering my skills in Swift Programming Language!🤓
 
-- 🔭 I’m currently working on GitIt which just got released, check it out 👉 [GitIt]
+- 🔥 I just released my new app, check it out 👉 [Tracker]
 - 🌱 I’m currently learning Swift and its best practices for Apple ecosystem
 - 👯 I’m looking to collaborate on open source Swift Libraries
 - 🤔 I’m looking forward to learning reactive programming, unit testing and clean architecture
@@ -40,4 +40,4 @@
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=loay-ashraf&theme=prussian" alt="loay-ashraf" />
 </p>
   
-[GitIt]: https://github.com/loay-ashraf/GitIt
+[Tracker]: https://github.com/loay-ashraf/Tracker
