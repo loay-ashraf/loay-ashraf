@@ -1,12 +1,12 @@
 <h1 align="center">Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=40px></h1>
-<h2 align="center"> I'm Loay Ashraf, A passionate iOS Software Engineer from Egypt</h2>
+<h2 align="center"> I'm Loay Ashraf, A passionate iOS Developer from Egypt</h2>
 
 ### I'm currently into Apple developer eco system and mastering my skills in Swift Programming Language!🤓
 
-- 🔥 I just released my new app, check it out 👉 [Tracker]
-- 🌱 I’m currently learning Swift and its best practices for Apple ecosystem
+- 🔥 I just released my first frmework, check it out 👉 [RxNetworkKit]
+- 🌱 I’m currently learning reactive programming.
 - 👯 I’m looking to collaborate on open source Swift Libraries
-- 🤔 I’m looking forward to learning reactive programming, unit testing and clean architecture
+- 🤔 I’m looking forward to learning unit testing and clean architecture
 - 📫 How to reach me: Follow me on GitHub or via social links below 👇
 - ⚡ Fun fact: I'm a cat person 😹 and a gamer 🎮
 
@@ -40,4 +40,4 @@
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=loay-ashraf&theme=prussian" alt="loay-ashraf" />
 </p>
   
-[Tracker]: https://github.com/loay-ashraf/Tracker
+[RxNetworkKit]: https://github.com/loay-ashraf/RxNetworkKit
