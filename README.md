@@ -3,7 +3,7 @@
 
 ### I'm currently into Apple developer eco system and mastering my skills in Swift Programming Language!🤓
 
-- 🔥 I just released my first frmework, check it out 👉 [RxNetworkKit]
+- 🔥 I just released my first framework, check it out 👉 [RxNetworkKit]
 - 🌱 I’m currently learning reactive programming.
 - 👯 I’m looking to collaborate on open source Swift Libraries
 - 🤔 I’m looking forward to learning unit testing and clean architecture
